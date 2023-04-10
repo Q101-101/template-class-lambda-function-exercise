@@ -1,0 +1,1 @@
+Implemented class "Sorted" representing a sorted array using templates.
